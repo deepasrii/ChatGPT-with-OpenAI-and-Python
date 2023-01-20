@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "OPENAI_SECRET_KEY"
 
 while True:
     
